@@ -1,2 +1,5 @@
 # todolist
-todolist study
+
+
+## yarn start 
+## or npm start 
